@@ -141,15 +141,27 @@
   <ItemGroup>
     <ClCompile Include="betweenAdder.cpp" />
     <ClCompile Include="C++.cpp" />
+    <ClCompile Include="DataTypeBool.cpp" />
     <ClCompile Include="DefaultValue1.cpp" />
     <ClCompile Include="DefaultValue2.cpp" />
     <ClCompile Include="DefaultValue3.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
     <ClCompile Include="hello.cpp" />
+    <ClCompile Include="InlineFunc.cpp" />
+    <ClCompile Include="NameAlias.cpp" />
+    <ClCompile Include="NameSp1.cpp" />
+    <ClCompile Include="NameSp2.cpp" />
+    <ClCompile Include="NameSp3.cpp" />
     <ClCompile Include="q1_1.cpp" />
     <ClCompile Include="q1_2.cpp" />
+    <ClCompile Include="Referen.cpp" />
+    <ClCompile Include="RefSwap.cpp" />
     <ClCompile Include="simpleAdder.cpp" />
     <ClCompile Include="StringIO.cpp" />
+    <ClCompile Include="TrueAndFalse.cpp" />
+    <ClCompile Include="UsingDcl1.cpp" />
+    <ClCompile Include="UsingDcl2.cpp" />
+    <ClCompile Include="UsingDcl3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="헤더.h" />

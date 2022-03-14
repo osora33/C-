@@ -11,7 +11,19 @@ int main()
 	//q1_2();
 	//DefaultValue1();
 	//DefaultValue2();
-	DefaultValue3();
+	//DefaultValue3();
+	//InlineFunc();
+	//NameSp1();
+	//NameSp2();
+	//NameSp3();
+	//UsingDcl1();
+	//UsingDcl2();
+	//UsingDcl3();
+	//NameAlias();
+	//TrueAndFalse();
+	//DataTypeBool();
+	//Referen();
+	RefSwap();
 
 	return 0;
 }
